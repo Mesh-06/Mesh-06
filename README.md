@@ -55,10 +55,15 @@ LinkedIn: https://www.linkedin.com/in/umesh-jain-985866331/
 GitHub: https://github.com/Mesh-06
 
 🌟 Fun Fact
+
 In addition to coding, I enjoy [chess, badminton, reading]. I believe a well-rounded mindset helps me think creatively and approach problems from unique perspectives.
 
 🚀 Goals for the Future
+
 Build a portfolio of impactful projects in software development and backend engineering.
+
 Contribute to open-source and learn from the developer community.
+
 Land an internship to gain hands-on experience in the tech industry.
+
 Explore Artificial Intelligence and Machine Learning in the near future.
