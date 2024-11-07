@@ -49,8 +49,11 @@ I regularly practice algorithms and data structures on coding platforms to impro
 Feel free to reach out if you want to collaborate, discuss tech, or just connect!
 
 Email: codemesh26@gmail.com
+
 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/umesh-jain-985866331/)
+
 GitHub: https://github.com/Mesh-06
+
 🌟 Fun Fact
 In addition to coding, I enjoy [chess, badminton, reading]. I believe a well-rounded mindset helps me think creatively and approach problems from unique perspectives.
 
