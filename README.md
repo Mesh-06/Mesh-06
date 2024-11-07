@@ -50,7 +50,7 @@ Feel free to reach out if you want to collaborate, discuss tech, or just connect
 
 Email: codemesh26@gmail.com
 
-LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/umesh-jain-985866331/)
+LinkedIn: https://www.linkedin.com/in/umesh-jain-985866331/
 
 GitHub: https://github.com/Mesh-06
 
